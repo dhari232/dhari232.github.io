@@ -43,8 +43,8 @@ body {
 }
 
 table, td, th{
-	border: 2px solid black;
+	border: 10px solid white;
 	border-collapse: collapse;
 	padding-left: 5px;
-	text-align: -internal-center
+	text-align:center
 }
