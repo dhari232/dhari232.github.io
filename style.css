@@ -1,7 +1,14 @@
-
 #Name {
 	color: white;
 	font-size: 40px;
 	font-family: sans-serif;
-	margin-top: 70px;
+	margin-top: 150px;
+}
+
+#subheader{
+	color: white;
+	font-size: 20px;
+	margin-top: 20px;
+	font-family: Segoe UI;
+	width: 800px; 
 }
