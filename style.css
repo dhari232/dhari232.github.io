@@ -1,50 +1,7 @@
-body {
-  padding: 25px;
-  background-color:black;
-  color: white;
-  font-size: 25px;
-}
 
-#temp {
-	color: #fcb72d;
-	text-align: center;
-	margin: 30px;
-	padding: 15px;
-	background-color: black;
-	width: 700px;
-	height: 100px;
-	font-family: "comic sans ms";
-	font-size: 64px;
-	border: 5px solid blueviolet;
-}
-
-.icon-bar {
-  width: 100%; /* Full-width */
-  background-color: #555; /* Dark-grey background */
-  overflow: auto; /* Overflow due to float */
-}
-
-.icon-bar a {
-  float: left; /* Float links side by side */
-  text-align: center; /* Center-align text */
-  width: 20%; /* Equal width (5 icons with 20% width each = 100%) */
-  padding: 12px 0; /* Some top and bottom padding */
-  transition: all 0.3s ease; /* Add transition for hover effects */
-  color: white; /* White text color */
-  font-size: 36px; /* Increased font size */
-}
-
-.icon-bar a:hover {
-  background-color: #000; /* Add a hover color */
-}
-
-.active {
-  background-color: #04AA6D; /* Add an active/current color */
-}
-
-table, td, th{
-	border: 10px solid white;
-	border-collapse: collapse;
-	padding-left: 5px;
-	text-align:center
+#Name {
+	color: white;
+	font-size: 40px;
+	font-family: sans-serif;
+	margin-top: 70px;
 }
