@@ -3,12 +3,27 @@
 	font-size: 40px;
 	font-family: sans-serif;
 	margin-top: 150px;
+	grid-row-start: 1;
+	grid-row-end: 2;
+	grid-column-start: 1;
+  grid-column-end: 2;
 }
 
 #subheader{
+	display: grid;
+}
+
+#content{
 	color: white;
 	font-size: 20px;
 	margin-top: 20px;
 	font-family: Segoe UI;
-	width: 800px; 
+	width: 55vw;
+	text-align: justify;
+}
+
+#headimg{
+	grid-column-start: 2;
+  grid-column-end: 3;
+  margin-top: 120px;
 }
