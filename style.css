@@ -2,7 +2,7 @@
 	color: white;
 	font-size: 40px;
 	font-family: sans-serif;
-	margin-top: 150px;
+	margin-top: 15vw;
 	grid-row-start: 1;
 	grid-row-end: 2;
 	grid-column-start: 1;
@@ -15,10 +15,11 @@
 
 #content{
 	color: white;
-	font-size: 20px;
-	margin-top: 20px;
+	font-size: 0.5lh;
+	margin-top: 1vw;
+	margin-right: 3vw;
 	font-family: Segoe UI;
-	width: 55vw;
+	width: 75vw;
 	text-align: left;
 }
 
